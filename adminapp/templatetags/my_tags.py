@@ -36,7 +36,6 @@ register.filter('media_folder_products', media_folder_products)
 #register.filter('media_folder_users', media_folder_users)
 
 
-
 if __name__ == '__main__':
     print(media_folder_products('products_images/product1.jpg'))
     print(media_folder_products(''))

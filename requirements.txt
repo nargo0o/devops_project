@@ -1,5 +1,5 @@
-django
-pillow
+django==3.2.5
+pillow==8.3.1
 requests
-social_auth_app_django
-psycopg2-binary
+social_auth_app_django==4.0.0
+psycopg2-binary==2.9.1
